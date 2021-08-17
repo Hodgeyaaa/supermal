@@ -59,5 +59,11 @@
 	}
 </script>
 
-<style>
+<style scoped>
+img {
+		width: 25px;
+		height: 25px;
+		margin: 4px 0;
+		vertical-align: middle;
+	}
 </style>

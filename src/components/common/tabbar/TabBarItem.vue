@@ -40,11 +40,6 @@
 	.tab-bar-item {
 		flex: 1;
 		text-align: center;
-		img {
-			width: 16px;
-			height: 16px;
-			margin: 4px 0;
-			vertical-align: middle;
-		}
+		
 	}
 </style>

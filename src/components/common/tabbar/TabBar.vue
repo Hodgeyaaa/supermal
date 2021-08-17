@@ -13,7 +13,7 @@
 <style lang="less" scoped>
 	.tab-bar-wrap {
 		font-size: 12px;
-		height: 59px;
+		height: 49px;
 		display: flex;
 		position: fixed;
 		bottom: 0;
